@@ -6,4 +6,4 @@
 
 > **Use The Tool :** 
 
-*```https://eumair.github.io/html-editor/```*
+*https://eumair.github.io/html-editor/*
